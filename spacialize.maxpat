@@ -845,7 +845,7 @@
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 169.0, 149.0, 475.0, 480.0 ],
+						"rect" : [ 182.0, 149.0, 492.0, 480.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -864,6 +864,7 @@
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
@@ -874,7 +875,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 323.0, 159.0, 150.0, 33.0 ],
+									"patching_rect" : [ 332.5, 159.0, 135.0, 33.0 ],
 									"text" : "fudge to tone down the reverb a bit"
 								}
 
@@ -888,8 +889,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "float" ],
-									"patching_rect" : [ 290.5, 165.5, 35.0, 20.0 ],
-									"text" : "* 0.2"
+									"patching_rect" : [ 290.5, 165.5, 42.0, 20.0 ],
+									"text" : "* 0.05"
 								}
 
 							}
