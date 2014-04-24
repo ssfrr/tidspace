@@ -8,7 +8,7 @@
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 166.0, 162.0, 532.0, 454.0 ],
+		"rect" : [ 103.0, 131.0, 532.0, 454.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -50,7 +50,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 86.0, 378.0, 63.0, 20.0 ],
+					"patching_rect" : [ 92.53846, 378.0, 63.0, 20.0 ],
 					"text" : "Dry Bus"
 				}
 
@@ -864,7 +864,6 @@
 						"description" : "",
 						"digest" : "",
 						"tags" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"fontname" : "Arial",
